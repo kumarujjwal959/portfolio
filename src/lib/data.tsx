@@ -27,6 +27,7 @@ import AvatarShekhar from '/public/images/avatar-shekhar.png';
 import AvatarShubham from '/public/images/avatar-shukla.png';
 import AvatarManju from '/public/images/avatar-manju.png';
 import xtratune from '/public/images/xtratune.jpg';
+import chatsphere from '/public/images/chatsphere.png';
 
 import {
   ExperienceDetails,
@@ -200,9 +201,27 @@ export const PROJECTS: ProjectDetails[] = [
     url: 'https://github.com/kumarujjwal959/XtraTune',
     previewImage: xtratune,
     technologies: [
+      'javascript',
       'React.js',
       'Next.js',
       'typescript',
+      'tailwindcss'
+    ],
+  },
+  {
+    name: 'ChatSphere',
+    description: "Developed a real-time chat application utilizing WebSocket API and the ws library, implementing a MERN (MongoDB, Express.js, React.js, Node.js) stack for seamless communication. Designed and styled the user interface of the chat application using TailwindCSS, ensuring a modern and responsive user experience.",
+    url: 'https://github.com/kumarujjwal959/ChatSphere',
+    previewImage: chatsphere,
+    technologies: [
+      'javascript',
+      'React.js',
+      'Next.js',
+      'typescript',
+      'WebSockets',
+      'MongoDB',
+      'ExpressJS',
+      'Cloudinary',
       'tailwindcss'
     ],
   }
