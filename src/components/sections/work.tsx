@@ -15,18 +15,13 @@ const WorkSection = () => {
           Some of the noteworthy projects I have built:
         </Typography>
       </div>
-
-      <Typography variant="subtitle" className="max-w-xl text-center">
-          I am in progress :)
-        </Typography>
-
-      {/* {PROJECTS?.map((project, index) => (
+      {PROJECTS?.map((project, index) => (
         <ProjectDetails
           key={index}
           {...project}
           layoutType={index % 2 === 0 ? 'default' : 'reverse'}
         />
-      ))} */}
+      ))}
     </Container>
   );
 };

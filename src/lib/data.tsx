@@ -26,6 +26,7 @@ import Acranton from '/public/images/logos/acranton-logo.jpg';
 import AvatarShekhar from '/public/images/avatar-shekhar.png';
 import AvatarShubham from '/public/images/avatar-shukla.png';
 import AvatarManju from '/public/images/avatar-manju.png';
+import xtratune from '/public/images/xtratune.jpg';
 
 import {
   ExperienceDetails,
@@ -194,14 +195,15 @@ export const EXPERIENCES: ExperienceDetails[] = [
 
 export const PROJECTS: ProjectDetails[] = [
   {
-    name: 'xyz',
-    description:
-      'abc',
-    url: '',
-    previewImage: '',
+    name: 'XtraTune',
+    description: "Developed a sleek and intuitive song streaming application using Next.js and React.js, seamlessly integrating navigation and playback functionalities for an enhanced user experience.",
+    url: 'https://github.com/kumarujjwal959/XtraTune',
+    previewImage: xtratune,
     technologies: [
-      'React',
-      'Node.js'
+      'React.js',
+      'Next.js',
+      'typescript',
+      'tailwindcss'
     ],
   }
 ];
