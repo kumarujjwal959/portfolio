@@ -170,10 +170,14 @@ export const EXPERIENCES: ExperienceDetails[] = [
     startDate: new Date(2021, 8),
     currentlyWorkHere: true,
     summary: [
-      "Modernized the front-end framework, transitioning from BackboneJS to ReactJS, significantly boosting the GRC application's scalability and maintainability.",
-      "Successfully led the migration of all charts within a GRC application, transitioning from Fusion Charts to D3, enhancing data visualization and interactivity.",
+      "Full-stack development for the Audit Manager Project, including creating the Login Page UI and implementing all necessary REST APIs for user registration, login, password change, and password reset. Utilized ReactJS for the frontend and NodeJS with ExpressJS and MongoDB for the backend.",
+      "Engineered the migration of GRC application from Backbone.js to Next.js, driving a 40% enhancement in user experience and a 30% reduction in load times, resulting in a significant boost in performance & efficiency metrics.",
+      "Led the successful migration of charts within a GRC application from Fusion Charts to D3, resulting in a 50% increase in data visualization capabilities and a 40% enhancement in interactivity.",
+      "Implemented mpowerAPIs for consumption by the Business Rules team.",
       "Fostered cross-functional collaboration to align project requirements and seamlessly integrate components.",
-      "Followed agile methodologies for completion of project tasks with strong customer focus.",
+      "Collaborated with the development team to identify and fix performance bottlenecks, resulting in a 20% increase in application speed using caching.",
+      "Resolved 300+ critical bugs in the company’s software, improving stability and customer satisfaction.",
+      "Collaborated with cross-functional teams to coordinate project requirements and ensure seamless integration of components, resulting in a 20% reduction in integration issues.",
       "Proven track record of successfully delivering projects within tight deadlines, and ability to manage multiple tasks simultaneously while maintaining attention to detail and quality."
     ],
   },
