@@ -235,21 +235,21 @@ export const TESTIMONIALS: TestimonialDetails[] = [
   {
     personName: 'Manjunatha N',
     personAvatar: AvatarManju,
-    title: 'Lead Engineer (MetricStram)',
+    title: 'Lead Engineer (MetricStream)',
     testimonial:
       "As the team lead, I've had the pleasure of collaborating closely with Ujjwal. His coding proficiency and commitment to quality are unmatched. Ujjwal's ability to tackle challenging problems head-on and deliver stellar results has been instrumental in our team's success. With Ujjwal's expertise in our team, we're not just meeting expectations – we're delivering high quality products.",
   },
   {
     personName: 'Shubham Shukla',
     personAvatar: AvatarShubham,
-    title: 'MTS(MetricStram)',
+    title: 'MTS(MetricStream)',
     testimonial:
       "Working alongside Ujjwal, I've witnessed his exceptional coding expertise and problem-solving skills. His dedication to quality and willingness to collaborate make him a valuable asset to our team. Ujjwal's positive attitude and eagerness to learn also makes him a pleasure to work with, further solidifying his reputation as an outstanding software developer and a good team player.",
   },
   {
     personName: 'Shekhar Dubey',
     personAvatar: AvatarShekhar,
-    title: 'MTS(MetricStram)',
+    title: 'MTS(MetricStream)',
     testimonial:
       "Ujjwal was extremely easy and pleasant to work with and he truly cares about the project being a success. He has a high level of knowledge and was able to work on MERN stack application with me without any issues & consistently demonstrates a keen ability to tackle complex problems with innovative solutions, contributing greatly to our team's success. His collaborative nature and commitment to excellence make him an invaluable asset to any project.",
   },
